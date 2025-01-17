@@ -21,8 +21,8 @@ A dedicated voltage regulator has also been dispensed with, as the uCs of the AV
 Below is a schematic diagram:<br>
 <p align="center"><img src="./docs/schematic.png" alt="wiring diagram" width="80%"/></p>
 <br>
-and visualisation of the module:
-<p align="center"><img src="./docs/Arduino_Pro_Mini_Dx.png" alt="Arduino Pro Mini Dx" width="50%"/></p>
+and visualisation of the module (click picture):
+<p align="center"><a href="https://3dviewer.net/#model=https://github.com/michpro/Arduino_Pro_Mini_Dx/blob/master/docs/Arduino_Pro_Mini_Dx.wrl"><img src="./docs/Arduino_Pro_Mini_Dx.png" alt="Arduino Pro Mini Dx" width="50%"/></a></p>
 
 The production files can be found in the location: https://github.com/michpro/Arduino_Pro_Mini_Dx/blob/master/production/
 
